@@ -1,5 +1,5 @@
 streamlit
 nltk==3.9.4
-scikit-learn==1.7.1
+scikit-learn==1.5.1
 pandas
 numpy
